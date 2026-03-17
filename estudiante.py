@@ -1,3 +1,7 @@
+# Alejandro Sandoval
+# 00596210
+# Ing. Tecnologias de la informacion
+
 import os
 
 totalEst = 0
